@@ -9,4 +9,4 @@ function isAPalindromo(word) {
     }
 }
 
-console.log(isAPalindromo(word));
+isAPalindromo(word);
