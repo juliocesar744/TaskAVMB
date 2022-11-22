@@ -4,4 +4,4 @@ function getQtdOddNumbers(numbers) {
     return numbers.filter(num => num % 2 === 1).length;
 }
 
-getOddNumbers(numbers);
+console.log(getQtdOddNumbers(numbers));
